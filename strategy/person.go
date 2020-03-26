@@ -1,7 +1,5 @@
 package main
 
-import "strings"
-
 type person struct {
 	strategy strategy
 }
